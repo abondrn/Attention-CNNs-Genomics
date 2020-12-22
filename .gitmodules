@@ -1,0 +1,3 @@
+[submodule "AttentiveChrome"]
+	path = AttentiveChrome
+	url = https://github.com/QData/AttentiveChrome
